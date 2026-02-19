@@ -3414,256 +3414,288 @@
             "is_favorite": false
         }
     ],
-    "peliculas": {
-        "Netflix": [
-            {
-                "titulo": "WWE Raw on Netflix Premier Post-Show",
-                "poster": "https://image.tmdb.org/t/p/w500None",
-                "resumen": "",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "El Slam de Netflix",
-                "poster": "https://image.tmdb.org/t/p/w500/dlYSzb7Q6JAoMWKngWjeAWaqU0I.jpg",
-                "resumen": "Es la leyenda contra el prodigio: Rafael Nadal y Carlos Alcaraz se enfrentan en un excepcional partido en Las Vegas. Grabado en vivo en español. Solo disponible en ciertos idiomas.",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "La Copa Netflix",
-                "poster": "https://image.tmdb.org/t/p/w500/qVINoDajuDcOSv6Yrks6i3EQAKy.jpg",
-                "resumen": "Pilotos de Fórmula 1 y golfistas del PGA Tour se unen para competir en un evento deportivo en Las Vegas.",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Netflix Tudum 2025",
-                "poster": "https://image.tmdb.org/t/p/w500/jTZ5yiFpJPc19lA6uoT9zafHr0f.jpg",
-                "resumen": "Celebra tus series y películas favoritas en este evento global para fans en vivo repleto de estrellas que incluye presentaciones especiales y primicias exclusivas.",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "The Best of Netflix Is a Joke: The Festival",
-                "poster": "https://image.tmdb.org/t/p/w500/1SgaLTkwxLvLYQWXnz3sfRhC3AE.jpg",
-                "resumen": "",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Netflix & Chill",
-                "poster": "https://image.tmdb.org/t/p/w500/ocz3GycpPYN4vs1BIhexV71NrSI.jpg",
-                "resumen": "",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Handsome: A Netflix Mystery Movie",
-                "poster": "https://image.tmdb.org/t/p/w500/3REuVj3PhfL1TL3WjZGHOCTMSNw.jpg",
-                "resumen": "",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Raw on Netflix Kickoff",
-                "poster": "https://image.tmdb.org/t/p/w500None",
-                "resumen": "",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Oprah + Viola: A Netflix Special Event",
-                "poster": "https://image.tmdb.org/t/p/w500/cbtNvInkdo40XioM372m0nb8vCe.jpg",
-                "resumen": "En este evento especial, Oprah Winfrey se sienta con la actriz Viola Davis para una entrevista sobre sus memorias, \"Finding Me\".",
-                "plataforma": "Netflix"
-            },
-            {
-                "titulo": "Dinner for One à la Netflix",
-                "poster": "https://image.tmdb.org/t/p/w500/dc6xfZU1ftKTx75CsJO9yMP7rSe.jpg",
-                "resumen": "",
-                "plataforma": "Netflix"
-            }
-        ],
-        "Disney Plus": [
-            {
-                "titulo": "Disney",
-                "poster": "https://image.tmdb.org/t/p/w500/7zcoP7bWqag5km1jt01YNvlaDcb.jpg",
-                "resumen": "",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Disneyland, Del sueño a la realidad",
-                "poster": "https://image.tmdb.org/t/p/w500/iJb5Qco8rFdOQT1xaDoEejHIrKT.jpg",
-                "resumen": "Cientos de artesanos hicieron realidad el sueño imposible de Walt Disney de Disneylandia en 1955. Imágenes de archivo y grabaciones raras revelan sus historias jamás contadas de arte y determinación.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Walt Disney Fábulas - Vol. 5",
-                "poster": "https://image.tmdb.org/t/p/w500/mooNeFE8ziSsaY8GhP2i1JSQVrm.jpg",
-                "resumen": "Seis historias animadas más de los estudios Disney. «Los tres mosqueteros ciegos» sigue las desventuras del escandaloso trío. En «Los tres cerditos», el lobo feroz hace todo lo posible por atrapar a los cerditos sin culpa, mientras que en «Los tres lobitos» va un paso más allá y decide disfrazar y entrenar a sus propios hijos para atraerlos a su redil. «Los conejitos» explora el misterio del Conejo de Pascua. «Lambert, el león cordero» es un león adorable y tímido que tiene el valor de proteger a su familia adoptiva de ovejas y carneros. «Fernando el toro» se mete en un lío en una plaza de toros de Madrid cuando le pica una abeja y la multitud lo confunde con un toro de lidia.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Walt Disney Fábulas - Vol. 6",
-                "poster": "https://image.tmdb.org/t/p/w500/o3pxSdoO3XZhCBHKvk6AjdsdBkb.jpg",
-                "resumen": "Dos cortos animados clásicos de los estudios Disney. En «El dragón chiflado», un joven y un famoso luchador de dragones se unen para enseñar a un dragón dócil el arte de ser una fuerza a tener en cuenta. En «Mickey y las habichuelas mágicas», Mickey Mouse, Goofy y el Pato Donald se enfrentan al temible Willie el Gigante para intentar recuperar el arpa mágica cantante a Valle Feliz.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Especial Disney+ Day de Marvel Studios 2021",
-                "poster": "https://image.tmdb.org/t/p/w500/tQgrLomow4VbInRbX3bitgAp0e6.jpg",
-                "resumen": "",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Walt Disney Fábulas - Vol. 3",
-                "poster": "https://image.tmdb.org/t/p/w500/1VIk3O5qX80FQAvGKueJeg3cYH7.jpg",
-                "resumen": "Tres historias clásicas del equipo de Disney. «Donald en: el país de las matemágicas» es un cortometraje premiado que protagoniza el pato favorito de todos. «Franklin y yo» cuenta la historia de cómo un ratoncito ayudó a Benjamin Franklin y cambió el curso de la historia. Finalmente, «Inventos modernos» encuentra al Pato Donald en un museo donde obtiene más de lo que esperaba.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Lego Disney Princess: Villanos Unidos",
-                "poster": "https://image.tmdb.org/t/p/w500/12kNMnNioZYl7J6tg8xOh406bkg.jpg",
-                "resumen": "Después de que Ariel, Moana, Tiana, Rapunzel y Blancanieves frustraran el plan de Gastón de apoderarse de todos sus reinos, éste llama a Úrsula, Jafar y la Reina Malvada para que le ayuden a acabar con las Princesas de una vez por todas. Las Princesas se enteran del plan de Gastón y reclutan a algunas de sus amigas con la ayuda del Espejo Mágico: Aurora, Bella y Cenicienta. Juntas, las Princesas se aliarán para un enfrentamiento definitivo entre el bien y el mal.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Walt Disney Fábulas - Vol. 4",
-                "poster": "https://image.tmdb.org/t/p/w500/9CQ22jfqaV9rq6gPnAC53oQ0EIn.jpg",
-                "resumen": "Seis historias clásicas contadas por el equipo de Disney. «La tortuga y la liebre» presenta la carrera entre Max y Toby. En «El Flautista de Hamelín», las ratas han invadido Hamelín y solo el Flautista de Hamelín puede deshacerse de ellos, mientras que «El Rey Midas recibe el Toque Dorado» es un cuento de advertencia. «El regreso de la tortuga Toby» presenta de nuevo a Max y Toby, esta vez en un ring de boxeo. En «El viejo rey Cole», todos los amigos del libro de cuentos están invitados al castillo del rey, mientras que «Rey Neptuno» salva a sus súbditos de los piratas.",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Disney Héroes Volumen 1",
-                "poster": "https://image.tmdb.org/t/p/w500/yOX8VfDFHJI1Ap1xtylJrwBciHJ.jpg",
-                "resumen": "Las aventuras de las divertidas y emocionantes series televisivas de Tarzán y Hércules.  No importa si estás surfeando entre los árboles o pasando el rato con los dioses de la Antigua Grecia, siempre estarás en buena compañía si te unes a tus Héroes Disney favoritos, Tarzán y Hércules en sus aventuras más emocionantes. Descubre como Tarzán lucha contra una despiadada banda de malhechores o contra una imparable pitón gigante. Después diviértete con el legendario Hércules mientras combate a una diabólica maldición e intenta salvarse de las garras de un horrible Titán que lo destruye todo a su paso. Desde el primero hasta el último, estos emocionantes cuentos protagonizados por dos de los más grandes héroes que el mundo ha conocido ¡te harán pasar un rato salvaje!",
-                "plataforma": "Disney Plus"
-            },
-            {
-                "titulo": "Walt Disney Fábulas - Vol. 1",
-                "poster": "https://image.tmdb.org/t/p/w500/hn985uJJtaBIu46lFLVYeYZd1GT.jpg",
-                "resumen": "Dos fábulas animadas de los estudios Disney. En «El jinete sin cabeza» Ichabod Crane está enamorado de la encantadora Katrina, pero tiene que enfrentarse a Brom Bones, el matón de la ciudad. Su rivalidad lleva a Crane a la leyenda de Sleepy Hollow y al jinete sin cabeza. En «El príncipe y el mendigo» Mickey, Goofy, Donald y Pluto protagonizan la reelaboración del clásico de Mark Twain por parte de Disney.",
-                "plataforma": "Disney Plus"
-            }
-        ],
-        "HBO": [
-            {
-                "titulo": "Zorgon: The H-Bomb Beast From Hell",
-                "poster": "https://image.tmdb.org/t/p/w500/oHHUpOzfvBhLm9VYpxlR1XmcozQ.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "The 2nd Annual HBO Young Comedians Show",
-                "poster": "https://image.tmdb.org/t/p/w500/5zke4yr04Nkmc78VNMhDS19Gy9u.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half-Hour: Jeff Garlin",
-                "poster": "https://image.tmdb.org/t/p/w500/8DPsccpW5VEUaz4zHk5biU4BLJN.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half-Hour 24: Louis C.K.",
-                "poster": "https://image.tmdb.org/t/p/w500/yxtmnltgWBQZnNZ4UKD4PsHxIAa.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half-Hour: Warren Hutcherson",
-                "poster": "https://image.tmdb.org/t/p/w500None",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "David Cross: HBO Comedy Half-Hour",
-                "poster": "https://image.tmdb.org/t/p/w500/8UxhfEWEmmP9cqVi6kjIw1vdkfS.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half Hour: Bobcat Goldthwait",
-                "poster": "https://image.tmdb.org/t/p/w500/nCVOZnoqSCjaA69LsAywp4b0mBc.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half-Hour: Laura Kightlinger",
-                "poster": "https://image.tmdb.org/t/p/w500/9L8EXujqvMZUW2w1z5tUQQ40qbf.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half Hour: Dana Gould",
-                "poster": "https://image.tmdb.org/t/p/w500/7io5CvtjGVP9RPVZnc9InRihsuS.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            },
-            {
-                "titulo": "HBO Comedy Half-Hour: Eddie Griffin",
-                "poster": "https://image.tmdb.org/t/p/w500/zhaaEzrGEI0u22Es2yJGRGg6f69.jpg",
-                "resumen": "",
-                "plataforma": "HBO"
-            }
-        ],
-        "Amazon Prime": [
-            {
-                "titulo": "Amazon",
-                "poster": "https://image.tmdb.org/t/p/w500/9hKw5mBCeg7zbADw67b1BElopr.jpg",
-                "resumen": "",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Amazon",
-                "poster": "https://image.tmdb.org/t/p/w500/jbd9b6V8kPfIquM7XLwN8yvUnbp.jpg",
-                "resumen": "",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Amazon",
-                "poster": "https://image.tmdb.org/t/p/w500/lyQQXdBswsbEycCQBY5FKhsUN7H.jpg",
-                "resumen": "",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "amazon",
-                "poster": "https://image.tmdb.org/t/p/w500None",
-                "resumen": "",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Ainbo: La Guerrera Del Amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/hJzYZ2jC5TqzCALiZZRqmqXXRZx.jpg",
-                "resumen": "Una niña nació y creció en la selva más profunda del Amazonas, Colonia, que descansa sobre el lomo del Espíritu Materno más poderoso del Amazonas, Turtle Motelo Mama. Un día descubre que su tierra natal está siendo amenazada y se da cuenta de que hay otros humanos en el mundo además de su gente. Mientras lucha por salvar su paraíso contra la codicia y la explotación de los niños, la tala y la minería ilegal, comienza a luchar para revertir esta destrucción y el mal inminente de Yucuruna, la oscuridad que vive en el Amazonas. Guiada por el espíritu de su madre, Ainbo está decidida a salvar su tierra y salvar a su gente antes de que sea demasiado tarde.",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/hzAp2qCj7LvYqWPsTi9Kphs61Gc.jpg",
-                "resumen": "Compuesto por seis cortometrajes de ficción sobre la selva amazónica, sus habitantes, y las apuestas y desafíos que enfrentan.  Cada cortometraje presenta una perspectiva diferente en un aspecto específico de la cultura de esta región. En conjunto, estas historias crean una narrativa sólida y original cuyo mosaico irreverente aborda con fuerza las duras realidades de la Amazonía con humor, intriga y fantasía",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "El tesoro del Amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/32vcJ7Fz03cNWGZt8FD75Z9pCO3.jpg",
-                "resumen": "Cuando Travis, el hijo mouthy de un criminal, desaparece en el Amazonas en busca de un artefacto atesorado, su padre hace pasar a Beck, que se hace el rival de Travis para los afectos de Mariana, una mujer brasileña misteriosa. Con su disposición acerada, Beck es un hombre de pocas palabras - pero necesita toda la disciplina que puede reunir para trabajar con Travis para agarrar a un tirano que es después del mismo tesoro.",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Perdido en el Amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/fnOh4LMQ7sm73lc8r1JOd8CvZkU.jpg",
-                "resumen": "",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Perdidos en el Amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg",
-                "resumen": "Después de que un trágico accidente aéreo deja a cuatro hermanos varados en lo profundo de la selva colombiana, se pone en marcha una dramática operación de rescate que une a rastreadores indígenas y al ejército en una carrera contrarreloj. Por primera vez, Perdidos en el Amazonas presenta el relato exclusivo de esta increíble historia real contado por los propios niños y por los rescatistas que recorrieron la selva amazónica durante 40 extenuantes días y noches para encontrarlos.",
-                "plataforma": "Amazon Prime"
-            },
-            {
-                "titulo": "Tarzán y las amazonas",
-                "poster": "https://image.tmdb.org/t/p/w500/ubuXq82CnAnvaOkjZHddMo5GU50.jpg",
-                "resumen": "Un grupo de arqueólogos piede ayuda a Tarzán para encontrar un antigua ciudad oculta en un valle habitado por amazonas... Una nueva adaptación al cine del famoso personaje de Edgar Rice Burroughs que contó con dos importantes cambios: el personaje de Jane ya no estuvo interpretado por la dulce Maureen O'Sullivan (pareja habitual de Johnny Weissmuller en todas sus versiones anteriores), sino por Brenda Joyce, y la productora, que en todas las películas de tarzán anteriores había sido la MGM, fue en esta ocasión la RKO Radio Pictures.",
-                "plataforma": "Amazon Prime"
-            }
-        ]
-    },
+    "peliculas": [
+        {
+            "titulo": "WWE Raw on Netflix Premier Post-Show",
+            "poster": "https://image.tmdb.org/t/p/w500None",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "El Slam de Netflix",
+            "poster": "https://image.tmdb.org/t/p/w500/dlYSzb7Q6JAoMWKngWjeAWaqU0I.jpg",
+            "resumen": "Es la leyenda contra el prodigio: Rafael Nadal y Carlos Alcaraz se enfrentan en un excepcional partido en Las Vegas. Grabado en vivo en español. Solo disponible en ciertos idiomas.",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "La Copa Netflix",
+            "poster": "https://image.tmdb.org/t/p/w500/qVINoDajuDcOSv6Yrks6i3EQAKy.jpg",
+            "resumen": "Pilotos de Fórmula 1 y golfistas del PGA Tour se unen para competir en un evento deportivo en Las Vegas.",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Netflix Tudum 2025",
+            "poster": "https://image.tmdb.org/t/p/w500/jTZ5yiFpJPc19lA6uoT9zafHr0f.jpg",
+            "resumen": "Celebra tus series y películas favoritas en este evento global para fans en vivo repleto de estrellas que incluye presentaciones especiales y primicias exclusivas.",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "The Best of Netflix Is a Joke: The Festival",
+            "poster": "https://image.tmdb.org/t/p/w500/1SgaLTkwxLvLYQWXnz3sfRhC3AE.jpg",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Netflix & Chill",
+            "poster": "https://image.tmdb.org/t/p/w500/ocz3GycpPYN4vs1BIhexV71NrSI.jpg",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Handsome: A Netflix Mystery Movie",
+            "poster": "https://image.tmdb.org/t/p/w500/3REuVj3PhfL1TL3WjZGHOCTMSNw.jpg",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Raw on Netflix Kickoff",
+            "poster": "https://image.tmdb.org/t/p/w500None",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Oprah + Viola: A Netflix Special Event",
+            "poster": "https://image.tmdb.org/t/p/w500/cbtNvInkdo40XioM372m0nb8vCe.jpg",
+            "resumen": "En este evento especial, Oprah Winfrey se sienta con la actriz Viola Davis para una entrevista sobre sus memorias, \"Finding Me\".",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Dinner for One à la Netflix",
+            "poster": "https://image.tmdb.org/t/p/w500/dc6xfZU1ftKTx75CsJO9yMP7rSe.jpg",
+            "resumen": "",
+            "plataforma": "Netflix",
+            "categoria": "Netflix"
+        },
+        {
+            "titulo": "Disney",
+            "poster": "https://image.tmdb.org/t/p/w500/7zcoP7bWqag5km1jt01YNvlaDcb.jpg",
+            "resumen": "",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Disneyland, Del sueño a la realidad",
+            "poster": "https://image.tmdb.org/t/p/w500/iJb5Qco8rFdOQT1xaDoEejHIrKT.jpg",
+            "resumen": "Cientos de artesanos hicieron realidad el sueño imposible de Walt Disney de Disneylandia en 1955. Imágenes de archivo y grabaciones raras revelan sus historias jamás contadas de arte y determinación.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Walt Disney Fábulas - Vol. 5",
+            "poster": "https://image.tmdb.org/t/p/w500/mooNeFE8ziSsaY8GhP2i1JSQVrm.jpg",
+            "resumen": "Seis historias animadas más de los estudios Disney. «Los tres mosqueteros ciegos» sigue las desventuras del escandaloso trío. En «Los tres cerditos», el lobo feroz hace todo lo posible por atrapar a los cerditos sin culpa, mientras que en «Los tres lobitos» va un paso más allá y decide disfrazar y entrenar a sus propios hijos para atraerlos a su redil. «Los conejitos» explora el misterio del Conejo de Pascua. «Lambert, el león cordero» es un león adorable y tímido que tiene el valor de proteger a su familia adoptiva de ovejas y carneros. «Fernando el toro» se mete en un lío en una plaza de toros de Madrid cuando le pica una abeja y la multitud lo confunde con un toro de lidia.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Walt Disney Fábulas - Vol. 6",
+            "poster": "https://image.tmdb.org/t/p/w500/o3pxSdoO3XZhCBHKvk6AjdsdBkb.jpg",
+            "resumen": "Dos cortos animados clásicos de los estudios Disney. En «El dragón chiflado», un joven y un famoso luchador de dragones se unen para enseñar a un dragón dócil el arte de ser una fuerza a tener en cuenta. En «Mickey y las habichuelas mágicas», Mickey Mouse, Goofy y el Pato Donald se enfrentan al temible Willie el Gigante para intentar recuperar el arpa mágica cantante a Valle Feliz.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Especial Disney+ Day de Marvel Studios 2021",
+            "poster": "https://image.tmdb.org/t/p/w500/tQgrLomow4VbInRbX3bitgAp0e6.jpg",
+            "resumen": "",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Walt Disney Fábulas - Vol. 3",
+            "poster": "https://image.tmdb.org/t/p/w500/1VIk3O5qX80FQAvGKueJeg3cYH7.jpg",
+            "resumen": "Tres historias clásicas del equipo de Disney. «Donald en: el país de las matemágicas» es un cortometraje premiado que protagoniza el pato favorito de todos. «Franklin y yo» cuenta la historia de cómo un ratoncito ayudó a Benjamin Franklin y cambió el curso de la historia. Finalmente, «Inventos modernos» encuentra al Pato Donald en un museo donde obtiene más de lo que esperaba.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Lego Disney Princess: Villanos Unidos",
+            "poster": "https://image.tmdb.org/t/p/w500/12kNMnNioZYl7J6tg8xOh406bkg.jpg",
+            "resumen": "Después de que Ariel, Moana, Tiana, Rapunzel y Blancanieves frustraran el plan de Gastón de apoderarse de todos sus reinos, éste llama a Úrsula, Jafar y la Reina Malvada para que le ayuden a acabar con las Princesas de una vez por todas. Las Princesas se enteran del plan de Gastón y reclutan a algunas de sus amigas con la ayuda del Espejo Mágico: Aurora, Bella y Cenicienta. Juntas, las Princesas se aliarán para un enfrentamiento definitivo entre el bien y el mal.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Walt Disney Fábulas - Vol. 4",
+            "poster": "https://image.tmdb.org/t/p/w500/9CQ22jfqaV9rq6gPnAC53oQ0EIn.jpg",
+            "resumen": "Seis historias clásicas contadas por el equipo de Disney. «La tortuga y la liebre» presenta la carrera entre Max y Toby. En «El Flautista de Hamelín», las ratas han invadido Hamelín y solo el Flautista de Hamelín puede deshacerse de ellos, mientras que «El Rey Midas recibe el Toque Dorado» es un cuento de advertencia. «El regreso de la tortuga Toby» presenta de nuevo a Max y Toby, esta vez en un ring de boxeo. En «El viejo rey Cole», todos los amigos del libro de cuentos están invitados al castillo del rey, mientras que «Rey Neptuno» salva a sus súbditos de los piratas.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Disney Héroes Volumen 1",
+            "poster": "https://image.tmdb.org/t/p/w500/yOX8VfDFHJI1Ap1xtylJrwBciHJ.jpg",
+            "resumen": "Las aventuras de las divertidas y emocionantes series televisivas de Tarzán y Hércules.  No importa si estás surfeando entre los árboles o pasando el rato con los dioses de la Antigua Grecia, siempre estarás en buena compañía si te unes a tus Héroes Disney favoritos, Tarzán y Hércules en sus aventuras más emocionantes. Descubre como Tarzán lucha contra una despiadada banda de malhechores o contra una imparable pitón gigante. Después diviértete con el legendario Hércules mientras combate a una diabólica maldición e intenta salvarse de las garras de un horrible Titán que lo destruye todo a su paso. Desde el primero hasta el último, estos emocionantes cuentos protagonizados por dos de los más grandes héroes que el mundo ha conocido ¡te harán pasar un rato salvaje!",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Walt Disney Fábulas - Vol. 1",
+            "poster": "https://image.tmdb.org/t/p/w500/hn985uJJtaBIu46lFLVYeYZd1GT.jpg",
+            "resumen": "Dos fábulas animadas de los estudios Disney. En «El jinete sin cabeza» Ichabod Crane está enamorado de la encantadora Katrina, pero tiene que enfrentarse a Brom Bones, el matón de la ciudad. Su rivalidad lleva a Crane a la leyenda de Sleepy Hollow y al jinete sin cabeza. En «El príncipe y el mendigo» Mickey, Goofy, Donald y Pluto protagonizan la reelaboración del clásico de Mark Twain por parte de Disney.",
+            "plataforma": "Disney Plus",
+            "categoria": "Disney Plus"
+        },
+        {
+            "titulo": "Zorgon: The H-Bomb Beast From Hell",
+            "poster": "https://image.tmdb.org/t/p/w500/oHHUpOzfvBhLm9VYpxlR1XmcozQ.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "The 2nd Annual HBO Young Comedians Show",
+            "poster": "https://image.tmdb.org/t/p/w500/5zke4yr04Nkmc78VNMhDS19Gy9u.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half-Hour: Jeff Garlin",
+            "poster": "https://image.tmdb.org/t/p/w500/8DPsccpW5VEUaz4zHk5biU4BLJN.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half-Hour 24: Louis C.K.",
+            "poster": "https://image.tmdb.org/t/p/w500/yxtmnltgWBQZnNZ4UKD4PsHxIAa.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half-Hour: Warren Hutcherson",
+            "poster": "https://image.tmdb.org/t/p/w500None",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "David Cross: HBO Comedy Half-Hour",
+            "poster": "https://image.tmdb.org/t/p/w500/8UxhfEWEmmP9cqVi6kjIw1vdkfS.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half Hour: Bobcat Goldthwait",
+            "poster": "https://image.tmdb.org/t/p/w500/nCVOZnoqSCjaA69LsAywp4b0mBc.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half-Hour: Laura Kightlinger",
+            "poster": "https://image.tmdb.org/t/p/w500/9L8EXujqvMZUW2w1z5tUQQ40qbf.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half Hour: Dana Gould",
+            "poster": "https://image.tmdb.org/t/p/w500/7io5CvtjGVP9RPVZnc9InRihsuS.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "HBO Comedy Half-Hour: Eddie Griffin",
+            "poster": "https://image.tmdb.org/t/p/w500/zhaaEzrGEI0u22Es2yJGRGg6f69.jpg",
+            "resumen": "",
+            "plataforma": "HBO",
+            "categoria": "HBO"
+        },
+        {
+            "titulo": "Amazon",
+            "poster": "https://image.tmdb.org/t/p/w500/9hKw5mBCeg7zbADw67b1BElopr.jpg",
+            "resumen": "",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Amazon",
+            "poster": "https://image.tmdb.org/t/p/w500/jbd9b6V8kPfIquM7XLwN8yvUnbp.jpg",
+            "resumen": "",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Amazon",
+            "poster": "https://image.tmdb.org/t/p/w500/lyQQXdBswsbEycCQBY5FKhsUN7H.jpg",
+            "resumen": "",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "amazon",
+            "poster": "https://image.tmdb.org/t/p/w500None",
+            "resumen": "",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Ainbo: La Guerrera Del Amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/hJzYZ2jC5TqzCALiZZRqmqXXRZx.jpg",
+            "resumen": "Una niña nació y creció en la selva más profunda del Amazonas, Colonia, que descansa sobre el lomo del Espíritu Materno más poderoso del Amazonas, Turtle Motelo Mama. Un día descubre que su tierra natal está siendo amenazada y se da cuenta de que hay otros humanos en el mundo además de su gente. Mientras lucha por salvar su paraíso contra la codicia y la explotación de los niños, la tala y la minería ilegal, comienza a luchar para revertir esta destrucción y el mal inminente de Yucuruna, la oscuridad que vive en el Amazonas. Guiada por el espíritu de su madre, Ainbo está decidida a salvar su tierra y salvar a su gente antes de que sea demasiado tarde.",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/hzAp2qCj7LvYqWPsTi9Kphs61Gc.jpg",
+            "resumen": "Compuesto por seis cortometrajes de ficción sobre la selva amazónica, sus habitantes, y las apuestas y desafíos que enfrentan.  Cada cortometraje presenta una perspectiva diferente en un aspecto específico de la cultura de esta región. En conjunto, estas historias crean una narrativa sólida y original cuyo mosaico irreverente aborda con fuerza las duras realidades de la Amazonía con humor, intriga y fantasía",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "El tesoro del Amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/32vcJ7Fz03cNWGZt8FD75Z9pCO3.jpg",
+            "resumen": "Cuando Travis, el hijo mouthy de un criminal, desaparece en el Amazonas en busca de un artefacto atesorado, su padre hace pasar a Beck, que se hace el rival de Travis para los afectos de Mariana, una mujer brasileña misteriosa. Con su disposición acerada, Beck es un hombre de pocas palabras - pero necesita toda la disciplina que puede reunir para trabajar con Travis para agarrar a un tirano que es después del mismo tesoro.",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Perdido en el Amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/fnOh4LMQ7sm73lc8r1JOd8CvZkU.jpg",
+            "resumen": "",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Perdidos en el Amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/im9oE8b6yAXNGTVwSYFZ5TmXgkc.jpg",
+            "resumen": "Después de que un trágico accidente aéreo deja a cuatro hermanos varados en lo profundo de la selva colombiana, se pone en marcha una dramática operación de rescate que une a rastreadores indígenas y al ejército en una carrera contrarreloj. Por primera vez, Perdidos en el Amazonas presenta el relato exclusivo de esta increíble historia real contado por los propios niños y por los rescatistas que recorrieron la selva amazónica durante 40 extenuantes días y noches para encontrarlos.",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        },
+        {
+            "titulo": "Tarzán y las amazonas",
+            "poster": "https://image.tmdb.org/t/p/w500/ubuXq82CnAnvaOkjZHddMo5GU50.jpg",
+            "resumen": "Un grupo de arqueólogos piede ayuda a Tarzán para encontrar un antigua ciudad oculta en un valle habitado por amazonas... Una nueva adaptación al cine del famoso personaje de Edgar Rice Burroughs que contó con dos importantes cambios: el personaje de Jane ya no estuvo interpretado por la dulce Maureen O'Sullivan (pareja habitual de Johnny Weissmuller en todas sus versiones anteriores), sino por Brenda Joyce, y la productora, que en todas las películas de tarzán anteriores había sido la MGM, fue en esta ocasión la RKO Radio Pictures.",
+            "plataforma": "Amazon Prime",
+            "categoria": "Amazon Prime"
+        }
+    ],
     "series": [],
     "adultos": []
 }
