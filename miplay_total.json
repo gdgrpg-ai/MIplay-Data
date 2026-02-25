@@ -1,150 +1,174 @@
 {
-    "tv": [
+    "categorias": [
         {
-            "nombre": "Telefe",
-            "url": "https://www.youtube.com/embed/XhAYcYpPzTc",
-            "logo": "https://i.imgur.com/logo_telefe.png",
-            "cat": "TV Aire"
+            "id": 1,
+            "nombre": "Televisión Abierta (TDA)",
+            "canales": [
+                {
+                    "nombre": "TV Pública",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC489670A88mNAnK7VfAov6Q",
+                    "logo": "https://i.imgur.com/vH6QnJb.png",
+                    "cat": "TDA - Aire"
+                },
+                {
+                    "nombre": "Encuentro",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UCmI_7L_7L9S-v7SAs_08x0w",
+                    "logo": "",
+                    "cat": "TDA - Cultura"
+                },
+                {
+                    "nombre": "Pakapaka",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC_Nf-B_S_C2_vO8L0YfU1_g",
+                    "logo": "",
+                    "cat": "TDA - Kids"
+                },
+                {
+                    "nombre": "DeporTV",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC_hY_2S_Y_X5_Y_X5_Y_X5_g",
+                    "logo": "",
+                    "cat": "TDA - Deportes"
+                },
+                {
+                    "nombre": "TEC",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC-786mOclDLe29Vl_wUOnpA",
+                    "logo": "",
+                    "cat": "TDA - Ciencia"
+                }
+            ]
         },
         {
-            "nombre": "El Trece",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCv_THaNTsP7hsVgBxARZTuajw",
-            "logo": "https://i.imgur.com/logo_13.png",
-            "cat": "TV Aire"
+            "id": 2,
+            "nombre": "Noticias 24hs",
+            "canales": [
+                {
+                    "nombre": "TN (Todo Noticias)",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UCj6PcyRvLhzjciMZ_6T-n6w",
+                    "logo": "",
+                    "cat": "Noticias"
+                },
+                {
+                    "nombre": "C5N",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC6XitpAn5pTfVfFasN3rXQA",
+                    "logo": "",
+                    "cat": "Noticias"
+                },
+                {
+                    "nombre": "Canal 26 (4K)",
+                    "url": "https://www.youtube.com/embed/c8Uxc6pwDNA",
+                    "logo": "",
+                    "cat": "Noticias"
+                },
+                {
+                    "nombre": "LN+",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC9H5NId99NInXf9DIsS7Sww",
+                    "logo": "",
+                    "cat": "Noticias"
+                },
+                {
+                    "nombre": "A24",
+                    "url": "https://www.youtube.com/embed/ArKbAx1K-2U",
+                    "logo": "",
+                    "cat": "Noticias"
+                }
+            ]
         },
         {
-            "nombre": "TN (Todo Noticias)",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCj6PcyRvLhzjciMZ_6T-n6w",
-            "logo": "",
-            "cat": "Noticias"
+            "id": 3,
+            "nombre": "Streaming & Radio",
+            "canales": [
+                {
+                    "nombre": "OLGA",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UC7mJ2EDXFomeDIRFu5FtEbA",
+                    "logo": "",
+                    "cat": "Streaming"
+                },
+                {
+                    "nombre": "LUZU TV",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UCv_THaNTsP7hsVgBxARZTuajw",
+                    "logo": "",
+                    "cat": "Streaming"
+                },
+                {
+                    "nombre": "Vorterix",
+                    "url": "https://www.youtube.com/embed/live_stream?channel=UCF8iN2m9_tC_79T_U_7vR_A",
+                    "logo": "",
+                    "cat": "Streaming"
+                },
+                {
+                    "nombre": "Urbana Play 104.3",
+                    "url": "https://www.youtube.com/embed/2t3yIarhEME",
+                    "logo": "",
+                    "cat": "Radio Streaming"
+                },
+                {
+                    "nombre": "La Pop 101.5",
+                    "url": "https://www.youtube.com/embed/7IGgrPGetoI",
+                    "logo": "",
+                    "cat": "Radio Streaming"
+                }
+            ]
         },
         {
-            "nombre": "C5N",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UC6XitpAn5pTfVfFasN3rXQA",
-            "logo": "",
-            "cat": "Noticias"
+            "id": 4,
+            "nombre": "Misterio & Documentales",
+            "canales": [
+                {
+                    "nombre": "Alienígenas Ancestrales",
+                    "url": "https://www.youtube.com/embed/BzS7BRxi-sM",
+                    "sinopsis": "Episodios completos History.",
+                    "cat": "Misterio"
+                },
+                {
+                    "nombre": "Inexplicable (Shatner)",
+                    "url": "https://www.youtube.com/embed/Ci1GIhIAGKw",
+                    "sinopsis": "Misterios con William Shatner.",
+                    "cat": "Misterio"
+                },
+                {
+                    "nombre": "El Secreto de Skinwalker",
+                    "url": "https://www.youtube.com/embed/GJGhonYXYXc",
+                    "sinopsis": "Investigación en el rancho.",
+                    "cat": "Misterio"
+                },
+                {
+                    "nombre": "Podcast PARANORMAL",
+                    "url": "https://www.youtube.com/embed/rnK7loHRtOE",
+                    "sinopsis": "Relatos de terror y entes.",
+                    "cat": "Podcast"
+                }
+            ]
         },
         {
-            "nombre": "Canal 26 (4K)",
-            "url": "https://www.youtube.com/embed/c8Uxc6pwDNA",
-            "logo": "",
-            "cat": "Noticias"
+            "id": 5,
+            "nombre": "Sección Kids",
+            "canales": [
+                {
+                    "nombre": "Bluey 24/7",
+                    "url": "https://www.youtube.com/embed/yrsUcALqXJ8",
+                    "cat": "Kids"
+                },
+                {
+                    "nombre": "Tom y Jerry",
+                    "url": "https://www.youtube.com/embed/K8fKPLV_83g",
+                    "cat": "Kids"
+                }
+            ]
         },
         {
-            "nombre": "LN+",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UC9H5NId99NInXf9DIsS7Sww",
-            "logo": "",
-            "cat": "Noticias"
-        },
-        {
-            "nombre": "A24",
-            "url": "https://www.youtube.com/embed/ArKbAx1K-2U",
-            "logo": "",
-            "cat": "Noticias"
-        },
-        {
-            "nombre": "Senado TV",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCrX4wYofKq0H-XyR9Q9n5pA",
-            "logo": "",
-            "cat": "Institucional"
-        },
-        {
-            "nombre": "Diputados TV",
-            "url": "https://www.youtube.com/embed/HugsOqwPsHA",
-            "logo": "",
-            "cat": "Institucional"
-        },
-        {
-            "nombre": "OLGA",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UC7mJ2EDXFomeDIRFu5FtEbA",
-            "logo": "",
-            "cat": "Streaming"
-        },
-        {
-            "nombre": "LUZU TV",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCv_THaNTsP7hsVgBxARZTuajw",
-            "logo": "",
-            "cat": "Streaming"
-        },
-        {
-            "nombre": "Vorterix",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCF8iN2m9_tC_79T_U_7vR_A",
-            "logo": "",
-            "cat": "Streaming"
-        },
-        {
-            "nombre": "Urbana Play 104.3",
-            "url": "https://www.youtube.com/embed/2t3yIarhEME",
-            "logo": "",
-            "cat": "Radio"
-        },
-        {
-            "nombre": "La Pop 101.5",
-            "url": "https://www.youtube.com/embed/7IGgrPGetoI",
-            "logo": "",
-            "cat": "Radio"
-        },
-        {
-            "nombre": "Radio 10",
-            "url": "https://www.youtube.com/embed/dkEANC9Q3AY",
-            "logo": "",
-            "cat": "Radio"
-        },
-        {
-            "nombre": "Carnaval Stream",
-            "url": "https://www.youtube.com/embed/live_stream?channel=UCRp_7vM8O0xY97uV3X8P2XQ",
-            "logo": "",
-            "cat": "Streaming"
+            "id": 6,
+            "nombre": "Misterio Pro",
+            "canales": [
+                {
+                    "nombre": "Misterio - Eporner 1",
+                    "url": "TU_LINK_DE_EPORNER_AQUI",
+                    "cat": "Misterio Adultos"
+                },
+                {
+                    "nombre": "Misterio - Eporner 2",
+                    "url": "TU_LINK_DE_EPORNER_AQUI",
+                    "cat": "Misterio Adultos"
+                }
+            ]
         }
-    ],
-    "documentales": [
-        {
-            "nombre": "Alienígenas Ancestrales",
-            "url": "https://www.youtube.com/embed/BzS7BRxi-sM",
-            "sinopsis": "Episodios completos de History.",
-            "cat": "Misterio"
-        },
-        {
-            "nombre": "Inexplicable (William Shatner)",
-            "url": "https://www.youtube.com/embed/Ci1GIhIAGKw",
-            "sinopsis": "Misterios de la naturaleza.",
-            "cat": "Misterio"
-        },
-        {
-            "nombre": "El Secreto de Skinwalker",
-            "url": "https://www.youtube.com/embed/GJGhonYXYXc",
-            "sinopsis": "Investigación en el rancho.",
-            "cat": "Misterio"
-        },
-        {
-            "nombre": "Podcast PARANORMAL",
-            "url": "https://www.youtube.com/embed/rnK7loHRtOE",
-            "sinopsis": "Relatos y casos paranormales.",
-            "cat": "Podcast"
-        },
-        {
-            "nombre": "Discovery H&H (Maratón)",
-            "url": "https://www.youtube.com/embed/vWhEto1Q6Js",
-            "sinopsis": "Estilo de vida y salud.",
-            "cat": "Documental"
-        }
-    ],
-    "kids": [
-        {
-            "nombre": "Bluey 24/7",
-            "url": "https://www.youtube.com/embed/yrsUcALqXJ8",
-            "cat": "Kids"
-        },
-        {
-            "nombre": "Jorge el Curioso",
-            "url": "https://www.youtube.com/embed/VM5nQNEigSk",
-            "cat": "Kids"
-        },
-        {
-            "nombre": "Tom y Jerry",
-            "url": "https://www.youtube.com/embed/K8fKPLV_83g",
-            "cat": "Kids"
-        }
-    ],
-    "misterio": []
+    ]
 }
